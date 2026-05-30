@@ -20,3 +20,4 @@ Target 0: (exr_parser) stopped.
 ```
 
 Full technical write-up available [here](https://zygosec.com/blog)
+Video explanation available [here](https://www.youtube.com/watch?v=nPuU_9Kbb5o)
